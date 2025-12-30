@@ -19,3 +19,10 @@ To get started with Docusaurus for deployment with Vercel, you can use the [Docu
 ```shell
 $ docusaurus-init
 ```
+
+
+This PDF explains safe and legit ways to earn Robux in 2025.
+
+View the full PDF here:
+
+https://www.marcotran.com/sites/default/files/2025-12/5000%20Robux%20Fast%20%26%20Legit%20Ways%20to%20Earn%20in%202025.pdf
